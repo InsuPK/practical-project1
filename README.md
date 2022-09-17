@@ -9,6 +9,10 @@
 <img src = "screenshots/1. 모든단어보기 (1).png">
 <img src = "screenshots/1. 모든단어보기 (2).png">
 
+[1. 모든단어보기(파일포함)] 실행화면 스크린샷
+<img src = "https://github.com/InsuPK/practical-project1/blob/master/screenshots/1.%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%B3%E1%86%AB%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5(%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%86%B7)%20(1).png">
+<img src = "https://github.com/InsuPK/practical-project1/blob/master/screenshots/1.%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%B3%E1%86%AB%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5%20(%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%86%B7)%20(2).png">
+
 [4. 단어추가] 실행화면 스크린샷
 <img src = "screenshots/4. 단어추가.png">
 
