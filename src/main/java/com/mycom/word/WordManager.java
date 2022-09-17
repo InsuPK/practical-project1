@@ -1,5 +1,6 @@
 package com.mycom.word;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 public class WordManager {
@@ -25,7 +26,9 @@ public class WordManager {
         return s.nextInt();
     }
 
-    public void start() {
+    public void start() throws IOException {
+
+        wordCRUD.loadFile();
         while (true) {
             int menu = selectMenu();
             if (menu == 0) {
@@ -36,10 +39,13 @@ public class WordManager {
                 wordCRUD.addItem();
             } else if (menu == 1) {
                 wordCRUD.listAll();
-            } else if (menu == 5) {
+            }
+            else if (menu == 5) {
                 wordCRUD.updateItem();
             } else if (menu == 6) {
                 wordCRUD.deleteItem();
+            } else if (menu == 7) {
+                wordCRUD.saveFile();
             }
 
         }
